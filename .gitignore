@@ -1,0 +1,30 @@
+# Flutter Specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+build/
+ios/Podfile.lock
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# IntelliJ Specific
+.idea/
+*.iml
+
+# Android Specific
+android/.gradle/
+android/app/build/
+android/build/
+
+# VS Code Specific
+.vscode/
+
+# Generated Files
+*.g.dart
+*.freezed.dart
+
+# Other
+packages/path_provider/
